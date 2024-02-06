@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSCrEaBsOfrGXqA4xEHbhanVILlZIqXNZ8xSAJ6PDH4k/5vReKvOeZeGAeG9c5phhn8v7vGTDzfd7vNEwQrHsA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\assad\\vscode\\stc2excelapp\\YourProjectName\\YourProjectName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\assad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\assad\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\assad\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\assad\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\assad\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\assad\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
